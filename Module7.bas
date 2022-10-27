@@ -1,8 +1,8 @@
 Attribute VB_Name = "Module7"
-Sub Макрос8()
-Attribute Макрос8.VB_ProcData.VB_Invoke_Func = " \n14"
+Sub ГЊГ ГЄГ°Г®Г±8()
+Attribute ГЊГ ГЄГ°Г®Г±8.VB_ProcData.VB_Invoke_Func = " \n14"
 '
-' Макрос8 Макрос
+' ГЊГ ГЄГ°Г®Г±8 ГЊГ ГЄГ°Г®Г±
 '
 
 '
